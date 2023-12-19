@@ -43,7 +43,3 @@ This project is licensed under the [MIT License](LICENSE).
 ### Contact
 
 For any inquiries or suggestions, please contact Manvith Madhuvarsu at stark3kstark@gmail.com.
-
---- 
-
-Feel free to modify this text to best suit your project and its specifics!
