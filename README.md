@@ -15,7 +15,7 @@ This repository contains code and resources for building a spam detection system
 
 1. **Clone the Repository**:
 
-   git clone https://github.com/your-username/spam-detection.git
+   git clone https://github.com/ManvithMadhuvarsu/Unstructured_Data_Management_Project.git
 
 2. **Installation**:
 
